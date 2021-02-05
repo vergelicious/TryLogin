@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TryLogin</string>
+    <string name="login">Login</string>
+    <string name="OTPsent">Please enter OTP code verification sent to: +639301234567</string>
+</resources>
